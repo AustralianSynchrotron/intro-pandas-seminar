@@ -1,0 +1,8 @@
+jupyter
+numpy
+pandas
+numexpr
+bottleneck
+matplotlib
+plotly
+cufflinks
