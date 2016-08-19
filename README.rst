@@ -5,7 +5,7 @@ Intro to pandas
    :target: http://mybinder.org/repo/australiansynchrotron/intro-pandas-seminar
    :alt: Run on Binder
 
-`Run this notebook online with Binder. <http://mybinder.org/repo/australiansynchrotron/intro-numpy-seminar>`_
+`Run this notebook online with Binder. <http://mybinder.org/repo/australiansynchrotron/intro-pandas-seminar>`_
 
 
 Installing with pip
